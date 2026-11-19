@@ -10,9 +10,9 @@ On the **Releases** page:
 
 | File | What it is |
 |------|------------|
-| `AguzzinoNetLink-Mednafen-Windows-SW17.zip` | Mednafen 1.32.1 with an emulated NetLink modem, the disc and its launchers, for Windows |
-| `AguzzinoNetLink-Mednafen-macOS-SW17.zip` | the same for macOS (Apple Silicon only) |
-| `AguzShareware17.zip` | the disc alone (`.cue` + `.bin`), for a real Saturn or another emulator |
+| `AguzzinoNetLink-Mednafen-Windows-SW18.zip` | Mednafen 1.32.1 with an emulated NetLink modem, the disc and its launchers, for Windows |
+| `AguzzinoNetLink-Mednafen-macOS-SW18.zip` | the same for macOS (Apple Silicon only) |
+| `AguzShareware18.zip` | the disc alone (`.cue` + `.bin`), for a real Saturn or another emulator |
 
 ## What you need
 
@@ -34,7 +34,7 @@ steps to run your own, with bots too (`relay/README.txt`).
 
 ## Known limits
 
-- On line, everyone needs the same disc: the calling screen says `DISC SW17`.
+- On line, everyone needs the same disc: the calling screen says `DISC SW18`.
 - Nobody can join a game already running.
 - On line, the game has only been played on emulators so far.
 
