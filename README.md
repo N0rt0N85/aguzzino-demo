@@ -26,7 +26,7 @@ inside each package has the details.
 The packages call the Aguzzino team's relay, which is in France. In the game:
 MULTIPLAYER, set PLAY to ON LINE, choose the mode and the map, press START. A
 game starts when 4 players are in, or 30 seconds after the last one arrived.
-Bots fill the empty places.
+A bot joins a game that has a free place, one bot per game at most.
 
 Far from Europe, a game is smoother through a relay near its players. The
 `relay` folder of each package has the relay program, its settings and the
