@@ -10,10 +10,10 @@ On the **Releases** page:
 
 | File | What it is |
 |------|------------|
-| `AguzzinoNetLink-Mednafen-Windows-SW18.zip` | Mednafen 1.32.1 with an emulated NetLink modem, the disc and its launchers, for Windows |
-| `AguzzinoNetLink-Mednafen-macOS-SW18.zip` | the same for macOS (Apple Silicon only) |
-| `AguzShareware18.zip` | the disc alone (`.cue` + `.bin`), for a real Saturn or another emulator |
-| `AguzShareware18Taisen.zip` | the same game for two Saturns joined by the link cable (see below) |
+| `AguzzinoNetLink-Mednafen-Windows-SW24.zip` | Mednafen 1.32.1 with an emulated NetLink modem, the disc and its launchers, for Windows |
+| `AguzzinoNetLink-Mednafen-macOS-SW24.zip` | the same for macOS (Apple Silicon only) |
+| `AguzShareware24.zip` | the disc alone (`.cue` + `.bin`), for a real Saturn or another emulator |
+| `AguzShareware18Taisen.zip` | the SW18 build of the game for two Saturns joined by the link cable (see below) |
 
 ## What you need
 
@@ -35,7 +35,7 @@ steps to run your own, with bots too (`relay/README.txt`).
 
 ## Two Saturns by the link cable
 
-`AguzShareware18Taisen.zip` is the same game, whose on line modes go through
+`AguzShareware18Taisen.zip` is the SW18 build of the game, whose on line modes go through
 the link cable between the rear serial ports of two Saturns instead of the
 NetLink: two players, with no relay, no modem and no PC. Each Saturn needs its
 own copy of the disc. On both: MULTIPLAYER, set PLAY to ON LINE, choose the
@@ -48,7 +48,7 @@ tested. Please tell us how it went in the Issues.
 
 ## Known limits
 
-- On line, everyone needs the same disc: the calling screen says `DISC SW18`.
+- On line, everyone needs the same disc: the calling screen says `DISC SW24`.
 - Nobody can join a game already running.
 - On line, the game has only been played on emulators so far.
 
