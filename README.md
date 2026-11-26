@@ -13,6 +13,7 @@ On the **Releases** page:
 | `AguzzinoNetLink-Mednafen-Windows-SW18.zip` | Mednafen 1.32.1 with an emulated NetLink modem, the disc and its launchers, for Windows |
 | `AguzzinoNetLink-Mednafen-macOS-SW18.zip` | the same for macOS (Apple Silicon only) |
 | `AguzShareware18.zip` | the disc alone (`.cue` + `.bin`), for a real Saturn or another emulator |
+| `AguzShareware18Taisen.zip` | the same game for two Saturns joined by the link cable (see below) |
 
 ## What you need
 
@@ -31,6 +32,19 @@ A bot joins a game that has a free place, one bot per game at most.
 Far from Europe, a game is smoother through a relay near its players. The
 `relay` folder of each package has the relay program, its settings and the
 steps to run your own, with bots too (`relay/README.txt`).
+
+## Two Saturns by the link cable
+
+`AguzShareware18Taisen.zip` is the same game, whose on line modes go through
+the link cable between the rear serial ports of two Saturns instead of the
+NetLink: two players, with no relay, no modem and no PC. Each Saturn needs its
+own copy of the disc. On both: MULTIPLAYER, set PLAY to ON LINE, choose the
+mode and the map, press START, the two within a minute.
+
+**Nobody has tried it on a Saturn yet.** Two emulated Saturns joined by an
+emulated cable played it without a fault; the cable's wiring, the levels and
+the timing of a real console are not checked. Its `README.txt` says what was
+tested. Please tell us how it went in the Issues.
 
 ## Known limits
 
